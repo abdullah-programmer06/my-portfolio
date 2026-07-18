@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor Portfolio",
+  "description": "A professional portfolio website for a video editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
